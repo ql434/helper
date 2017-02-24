@@ -1,0 +1,26 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "工具函数（url处理、各种数据类型的处理）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ql434@github.com/ql434/helper.git"
+  },
+  "keywords": [
+    "工具函数、nodejs"
+  ],
+  "author": "chuck.ql",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ql434/helper/issues"
+  },
+  "homepage": "https://github.com/ql434/helper#readme",
+  "dependencies": {
+    "bloody-escapehtml": "^1.1.0",
+    "url": "^0.11.0"
+  }
+}
