@@ -1,5 +1,5 @@
 {
-  "name": "helper",
+  "name": "helper_egg",
   "version": "1.0.0",
   "description": "工具函数（url处理、各种数据类型的处理）",
   "main": "index.js",
